@@ -1,0 +1,52 @@
+2025-02-11 11:34:04 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\shubh\OneDrive\HybridTestngFramework\opencartv1.0\testng.xml"
+2025-02-11 11:34:05 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\shubh\OneDrive\HybridTestngFramework\opencartv1.0\testng.xml
+
+2025-02-11 11:34:16 [main] INFO  testCases.tc001_AccountRegistrationPage - ******* Starting verify_account_regirtration *****
+2025-02-11 11:34:17 [main] INFO  testCases.tc001_AccountRegistrationPage - ******* Providing customer details *****
+2025-02-11 11:34:20 [main] INFO  testCases.tc001_AccountRegistrationPage - ******* Validating expected Message*****
+2025-02-11 11:34:25 [main] INFO  testCases.LoginTest - ******* Starting test 2 *****
+2025-02-11 11:34:26 [main] INFO  testCases.LoginTest - ******* Entering login details *****
+2025-02-11 11:34:28 [main] INFO  testCases.LoginTest - ******* Verificatio of login *****
+2025-02-11 11:35:49 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\shubh\OneDrive\HybridTestngFramework\opencartv1.0\crossbrowser.xml"
+2025-02-11 11:35:49 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\shubh\OneDrive\HybridTestngFramework\opencartv1.0\crossbrowser.xml
+
+2025-02-11 11:35:55 [TestNG-tests-1] INFO  testCases.tc001_AccountRegistrationPage - ******* Starting verify_account_regirtration *****
+2025-02-11 11:35:56 [TestNG-tests-1] INFO  testCases.tc001_AccountRegistrationPage - ******* Providing customer details *****
+2025-02-11 11:35:58 [TestNG-tests-1] INFO  testCases.tc001_AccountRegistrationPage - ******* Validating expected Message*****
+2025-02-11 11:36:02 [TestNG-tests-2] INFO  testCases.tc001_AccountRegistrationPage - ******* Starting verify_account_regirtration *****
+2025-02-11 11:36:03 [TestNG-tests-2] INFO  testCases.tc001_AccountRegistrationPage - ******* Providing customer details *****
+2025-02-11 11:36:05 [TestNG-tests-2] INFO  testCases.tc001_AccountRegistrationPage - ******* Validating expected Message*****
+2025-02-15 13:25:09 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\shubh\OneDrive\HybridTestngFramework\opencartv1.0\grid_docker.xml"
+2025-02-15 13:25:10 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\shubh\OneDrive\HybridTestngFramework\opencartv1.0\grid_docker.xml
+
+2025-02-15 13:27:24 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\shubh\OneDrive\HybridTestngFramework\opencartv1.0\grid_docker.xml"
+2025-02-15 13:27:25 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\shubh\OneDrive\HybridTestngFramework\opencartv1.0\grid_docker.xml
+
+2025-02-15 13:29:51 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\shubh\OneDrive\HybridTestngFramework\opencartv1.0\grid_docker.xml"
+2025-02-15 13:29:52 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\shubh\OneDrive\HybridTestngFramework\opencartv1.0\grid_docker.xml
+
+2025-02-15 13:35:22 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\shubh\OneDrive\HybridTestngFramework\opencartv1.0\grid_docker.xml"
+2025-02-15 13:35:23 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\shubh\OneDrive\HybridTestngFramework\opencartv1.0\grid_docker.xml
+
+2025-02-16 10:29:44 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\shubh\OneDrive\HybridTestngFramework\opencartv1.0\testng.xml"
+2025-02-16 10:32:06 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\shubh\OneDrive\HybridTestngFramework\opencartv1.0\testng.xml"
+2025-02-16 10:32:16 [main] INFO  testCases.tc001_AccountRegistrationPage - ******* Starting verify_account_regirtration *****
+2025-02-16 10:32:17 [main] INFO  testCases.tc001_AccountRegistrationPage - ******* Providing customer details *****
+2025-02-16 10:32:18 [main] INFO  testCases.tc001_AccountRegistrationPage - ******* Validating expected Message*****
+2025-02-16 10:32:24 [main] INFO  testCases.LoginTest - ******* Starting test 2 *****
+2025-02-16 10:32:24 [main] INFO  testCases.LoginTest - ******* Entering login details *****
+2025-02-16 10:32:25 [main] INFO  testCases.LoginTest - ******* Verificatio of login *****
+2025-02-16 10:47:39 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\shubh\OneDrive\HybridTestngFramework\opencartv1.0\testng.xml"
+2025-02-16 10:47:46 [main] INFO  testCases.tc001_AccountRegistrationPage - ******* Starting verify_account_regirtration *****
+2025-02-16 10:47:48 [main] INFO  testCases.tc001_AccountRegistrationPage - ******* Providing customer details *****
+2025-02-16 10:47:50 [main] INFO  testCases.tc001_AccountRegistrationPage - ******* Validating expected Message*****
+2025-02-16 10:47:54 [main] INFO  testCases.LoginTest - ******* Starting test 2 *****
+2025-02-16 10:47:55 [main] INFO  testCases.LoginTest - ******* Entering login details *****
+2025-02-16 10:47:56 [main] INFO  testCases.LoginTest - ******* Verificatio of login *****
+2025-02-16 10:58:46 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\shubh\OneDrive\HybridTestngFramework\opencartv1.0\testng.xml"
